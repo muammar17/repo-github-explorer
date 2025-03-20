@@ -23,10 +23,10 @@ This project is a GitHub Repositories Explorer built using React.js. It allows u
 ## Installation
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/github-repositories-explorer.git
+git clone https://github.com/muammar17/repo-github-explorer.git
 
 # Navigate to the project directory
-cd github-repositories-explorer
+cd repo-github-explorer
 
 # Install dependencies
 npm install
